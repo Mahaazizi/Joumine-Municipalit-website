@@ -1,0 +1,57 @@
+{
+  "name": "commune-joumine",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mikecousins/react-pdf": "^5.5.1",
+    "@phuocng/react-pdf-viewer": "^1.6.0",
+    "@react-pdf/renderer": "^1.6.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "clsx": "^1.1.0",
+    "contentful": "^7.14.5",
+    "cors": "^2.8.5",
+    "emailjs-com": "^2.4.1",
+    "mgr-pdf-viewer-react": "^1.0.3",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-file-viewer": "^1.2.1",
+    "react-icons": "^3.9.0",
+    "react-is": "^16.8.6",
+    "react-pdf": "^4.1.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.4.1",
+    "styled-components": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
